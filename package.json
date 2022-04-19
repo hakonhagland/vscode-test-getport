@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:vscode-test-getport.helloWorld"
+    "onCommand:vscode-test-getport.showPort"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "vscode-test-getport.helloWorld",
-        "title": "Hello World"
+        "command": "vscode-test-getport.showPort",
+        "title": "Show Port"
       }
     ]
   },
