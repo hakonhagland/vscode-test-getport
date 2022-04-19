@@ -44,8 +44,9 @@
   },
 	"repository": {
     "type": "git",
-    "url": "https://github.com/npm/cli.git"
+    "url": "https://github.com/hakonhagland/vscode-test-getport.git"
   },
+	"license": "Artistic-2.0",
   "dependencies": {
     "get-port": "^6.1.2"
   }
